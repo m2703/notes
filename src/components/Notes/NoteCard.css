@@ -1,0 +1,26 @@
+.notes-item__card
+{
+    border: 2px solid white;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.notes-item__title
+{
+    font-size: 30px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.notes-item__content p
+{
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}

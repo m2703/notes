@@ -1,0 +1,12 @@
+.notes-item
+{
+    border: 8px solid rgb(255, 45, 45);
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 50vw;
+    margin-top: 50px;
+    margin-left: 25%;
+    background-color: rgb(90, 7, 7);
+}
+
